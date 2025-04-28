@@ -1,6 +1,6 @@
 from telegram.ext import Updater,
 CommandHandler, MessageHandler,
-Filters , CallbackContext
+filters , CallbackContext
 
 # توکن ربات تلگرام
 TOKEN = "7989787294:AAEvfYAphjhmBh-6bUQEvBuJaW2WDeBynL0"
