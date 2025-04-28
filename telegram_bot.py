@@ -1,10 +1,4 @@
-
-from telegram import Update
-from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
-import logging
-from tronpy import Tron
-from tronpy.keys import PrivateKey
-import requests
+from telegram.ext import Updater, CommandHandler, MessageHandler, filters, CallbackContext
 
 # توکن ربات تلگرام
 TOKEN = "7989787294:AAEvfYAphjhmBh-6bUQEvBuJaW2WDeBynL0"
